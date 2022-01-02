@@ -11,7 +11,7 @@ This program allows the user to select a pathfinding algorithm and place the sta
 - Enter into your projects directory
 - Clone this repository
 ```
-git clone "repository link"
+git clone https://github.com/mjschwarz/PathfindingVisualization.git
 ```
 - Download the required modules
 ```
