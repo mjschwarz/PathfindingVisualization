@@ -8,16 +8,17 @@ This program allows the user to select a pathfinding algorithm and place the sta
 
 **To Run This Program:**
 - Open your terminal
-- Enter into your projects directory
-- Clone this repository
+- Enter into the directory where you store your projects
+- Clone this repository:
 ```
 git clone https://github.com/mjschwarz/PathfindingVisualization.git
 ```
-- Download the required modules
+- Enter into the projects directory
+- Download the required modules:
 ```
 python3 -r requirements.txt
 ```
-- Run the program
+- Run the program:
 ```
 python3 main.py
 ```
